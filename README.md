@@ -12,7 +12,7 @@
 :mountain: Mountain lover
 
 ### Social
-[LinkedIn](https://www.linkedin.com/in/chris-vanwormer-4a9b484/)
+[LinkedIn](https://www.linkedin.com/in/chris-vanwormer-4a9b484/)<br />
 [Instagram](https://www.instagram.com/chrisvanwormer/)
 
 
