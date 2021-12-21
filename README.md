@@ -8,7 +8,12 @@
 ### Non-Code
 
 :beers: Homebrewer since 2013<br />
-:hotdog: Dachshund lover
+:hotdog: Dachshund lover<br />
+:mountain: Mountain lover
+
+### Social
+[LinkedIn](https://www.linkedin.com/in/chris-vanwormer-4a9b484/)
+[Instagram](https://www.instagram.com/chrisvanwormer/)
 
 
 <!--
