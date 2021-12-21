@@ -1,7 +1,7 @@
 ### Code
 
-- ![drupal](https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png)Certified Drupal Developer
-- ![drupal](https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png)Certified Drupal Site Builder
+- <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png" width="30" height="30">Certified Drupal Developer
+- <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png" width="30" height="30">Certified Drupal Site Builder
 
 
 <!--
