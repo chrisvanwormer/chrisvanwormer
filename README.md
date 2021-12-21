@@ -1,4 +1,8 @@
-### Hi there 👋
+### Code
+
+- ![drupal](https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png)Certified Drupal Developer
+- ![drupal](https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png)Certified Drupal Site Builder
+
 
 <!--
 **chrisvanwormer/chrisvanwormer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
