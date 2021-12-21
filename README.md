@@ -1,9 +1,14 @@
-## Hey Guys! :grin:
+## Hey Guys! :wave:
 
 ### Code
 
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png" width="20" height="20"> Certified Drupal Developer<br />
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png" width="20" height="20"> Certified Drupal Site Builder
+
+### Non-Code
+
+:beers: Homebrewer since 2013
+:hotdog: Dachshund lover
 
 
 <!--
