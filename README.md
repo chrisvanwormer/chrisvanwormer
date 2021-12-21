@@ -7,7 +7,7 @@
 
 ### Non-Code
 
-:beers: Homebrewer since 2013
+:beers: Homebrewer since 2013<br />
 :hotdog: Dachshund lover
 
 
