@@ -35,7 +35,7 @@ Feel free to reach out to me!
 
 ---
 
-## :house_with_garden: **Life outside of code
+## :house_with_garden: **Life outside of code**
 
 :beers: Homebrewer since 2013<br />
 :hotdog: Dachshund lover<br />
