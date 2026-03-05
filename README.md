@@ -2,7 +2,7 @@
 
 🌍 **Based in Albany, NY** | 💡 **Passionate about future technologies**
 
-*Web Developer | CMS | Drupal*
+*Web Developer | CMS | Drupal | JavaScript | PHP*
 
 Welcome! I've been a passionate software developer for over 20 years, with a focus on government work for the last 10.
 
@@ -16,6 +16,13 @@ Welcome! I've been a passionate software developer for over 20 years, with a foc
 ![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Docker](https://skillicons.dev/icons?i=docker)
+
+---
+
+## 🌟 **Want to Connect?**
+
+Feel free to reach out to me!
+[LinkedIn](https://www.linkedin.com/in/chris-vanwormer-4a9b484/)
 
 ---
 
