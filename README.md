@@ -1,6 +1,6 @@
-## Hey Guys! :wave:
+## Hey Guys, I'm Chris, but you can call me Van! :blue_car: :wave:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+🌍 **Based in Albany, NY**
 
 ### Code
 
