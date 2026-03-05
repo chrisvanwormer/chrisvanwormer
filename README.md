@@ -1,5 +1,7 @@
 ## Hey Guys! :wave:
 
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ### Code
 
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png" width="20" height="20"> Certified Drupal Developer<br />
