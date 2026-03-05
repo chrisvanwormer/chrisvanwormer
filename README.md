@@ -1,6 +1,23 @@
-## Hey Guys, I'm Chris, but you can call me Van! :blue_car: :wave:
+## Hey Guys :wave: I'm Chris, but you can call me Van!
 
-🌍 **Based in Albany, NY**
+🌍 **Based in Albany, NY** | 💡 **Passionate about future technologies**
+
+*Web Developer | CMS | Drupal*
+
+Welcome! I've been a passionate software developer for over 20 years, with a focus on government work for the last 10.
+
+## 🛠️ **Technologies & Tools**
+
+![HTML5 GIF](https://skillicons.dev/icons?i=html)
+![CSS3 GIF](https://skillicons.dev/icons?i=css)
+![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
+![SQL GIF](https://skillicons.dev/icons?i=postgresql)
+![MySQL GIF](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+---
 
 ### Code
 
