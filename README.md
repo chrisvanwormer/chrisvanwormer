@@ -43,6 +43,8 @@ Feel free to reach out to me!
 :car: EV enthusiast<br />
 :mountain: Mountain lover
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 <!--
 **chrisvanwormer/chrisvanwormer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
