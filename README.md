@@ -39,9 +39,9 @@ Feel free to reach out to me!
 
 :beers: Homebrewer since 2013<br />
 :hotdog: Dachshund lover<br />
-:mountain: Mountain lover<br />
-:car: EV enthusiast
-
+:hotsprings: Soon to be Hot Sauce maker<br />
+:car: EV enthusiast<br />
+:mountain: Mountain lover
 
 <!--
 **chrisvanwormer/chrisvanwormer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
