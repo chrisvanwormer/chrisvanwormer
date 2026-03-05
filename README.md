@@ -47,7 +47,7 @@ Feel free to reach out to me!
 
 ## :musical_note: **Current Ear Candy**
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)
+
 
 <!--
 **chrisvanwormer/chrisvanwormer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
