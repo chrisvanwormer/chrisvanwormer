@@ -22,25 +22,25 @@ Welcome! I've been a passionate software developer for over 20 years, with a foc
 ## 🌟 **Want to Connect?**
 
 Feel free to reach out to me!
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-vanwormer/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](cvanwormer@gmail.com)
 
 ---
 
-### Code
+## :school_satchel: **Certifications**
 
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png" width="20" height="20"> Certified Drupal Developer<br />
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/drupal-512.png" width="20" height="20"> Certified Drupal Site Builder
 
-### Non-Code
+---
+
+## :house_with_garden: **Life outside of code
 
 :beers: Homebrewer since 2013<br />
 :hotdog: Dachshund lover<br />
-:mountain: Mountain lover
-
-### Social
-[LinkedIn](https://www.linkedin.com/in/chris-vanwormer-4a9b484/)<br />
-[Instagram](https://www.instagram.com/chrisvanwormer/)
+:mountain: Mountain lover<br />
+:car: EV enthusiast
 
 
 <!--
