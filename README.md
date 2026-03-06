@@ -46,7 +46,7 @@ Feel free to reach out to me!
 ---
 
 ## :musical_note: **Current Ear Candy**
-
+[!][Music](https://chris-spotify-novatorem-1rmm2da77-cvanwormer-4051s-projects.vercel.app/)
 
 
 <!--
