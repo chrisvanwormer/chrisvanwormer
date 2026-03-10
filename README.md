@@ -24,7 +24,7 @@ Welcome! I've been a passionate software developer for over 20 years, with a foc
 Feel free to reach out to me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-vanwormer/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](cvanwormer@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cvanwormer@gmail.com)
 
 ---
 
